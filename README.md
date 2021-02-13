@@ -1,7 +1,7 @@
-# Web-Stories-Blog-Django-MVT
+# Tech-Blog-Django-MVT
 
 
-A Web Stories Blog app.
+A Tech Blog app.
 
 Technologies Used: Python, Django Bootstrap.
 
